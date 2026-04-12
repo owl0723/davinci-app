@@ -1,0 +1,25 @@
+{
+  "name": "da Vinci症例管理アプリ改",
+  "short_name": "daVinci改",
+  "description": "da Vinciロボット手術症例管理アプリ",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#1F4E79",
+  "theme_color": "#1F4E79",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "icon192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

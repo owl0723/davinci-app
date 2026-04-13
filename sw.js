@@ -1,5 +1,5 @@
 // da Vinci症例管理アプリ改 — Service Worker
-const CACHE_NAME = 'davinci-app-v1';
+const CACHE_NAME = 'davinci-app-v3';
 const STATIC_FILES = [
     './',
     './index.html',
